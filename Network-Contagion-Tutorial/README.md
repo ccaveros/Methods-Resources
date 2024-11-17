@@ -4,7 +4,7 @@ You will need four files to complete this tutorial:
 
 1. ci_tutorial.Rmd
 2. conflict.tab
-3. violneth.tab
+3. violneth.zip
 4. civiliantargeting.dta
 5. hb_ksg_replication.dta
 
