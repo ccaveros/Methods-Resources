@@ -8,4 +8,4 @@ You will need four files to complete this tutorial:
 4. civiliantargeting.dta
 5. hb_ksg_replication.dta
 
-You can find the .pdf file with the full tutorial in ci_tutorial.Rmd
+You can find the file with the full tutorial in ci_tutorial.pdf/.Rmd
