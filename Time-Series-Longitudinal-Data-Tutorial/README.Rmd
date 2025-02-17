@@ -1,1 +1,5 @@
 ## Tutorial Time Series and Longitudinal Data
+You will need two files to complete this tutorial:
+
+    caverosanchez_ts_tutorial.ipynb
+    peace_data.csv
